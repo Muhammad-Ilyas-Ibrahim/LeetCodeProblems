@@ -35,7 +35,7 @@
 
 # My Notes
 
-## Steps (Enhanced and Completed):
+## Steps:
 1. **Initialize an empty list** to keep track of visited numbers.
 2. **Loop through each number** in the input array.
 3. **Check Conditions**:
