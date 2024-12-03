@@ -33,7 +33,7 @@
 
 ---
 
-# My Notes
+# **Algorithm Explanation and Dry Run**  
 
 ## Steps:
 1. **Initialize an empty list** to keep track of visited numbers.
