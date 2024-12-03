@@ -9,7 +9,7 @@ This repository contains my solutions to various problems on [LeetCode](https://
 1. Clone the repository:
    ```bash
    git clone https://github.com/Muhammad-Ilyas-Ibrahim/LeetCodeProblems.git
-  ```
+   ```
 2. Navigate to the desired problem file to view the solution.
 
 ## 📝 Contribution
