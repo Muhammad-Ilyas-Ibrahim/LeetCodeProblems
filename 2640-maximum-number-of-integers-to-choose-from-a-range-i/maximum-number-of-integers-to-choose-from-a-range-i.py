@@ -2,15 +2,15 @@ class Solution:
     def maxCount(self, banned: List[int], n: int, maxSum: int) -> int:
         total = 0
         count = 0
-        banned_set = set(banned)  # Use a set for O(1) lookup
+        banned_set = set(banned) 
 
-        # Iterate through numbers from 1 to n
+        
         for value in range(1, n + 1):
-            if value in banned_set:  # Skip banned values
+            if value in banned_set:  
                 continue
-            if total + value > maxSum:  # Stop if sum exceeds maxSum
+            if total + value > maxSum:
                 break
-            total += value  # Add value to total
-            count += 1  # Increment count of valid numbers
+            total += value  
+            count += 1  
 
         return count
