@@ -18,7 +18,6 @@ If you have suggestions or want to contribute improvements to the solutions, fee
 
 ## 🌟 Let's Connect!
 
-- [My GitHub Profile](https://github.com/Muhammad-Ilyas-Ibrahim)
 - [My LinkedIn Profile](https://www.linkedin.com/in/muhammad-ilyas-ibrahim/)
 
 ---
